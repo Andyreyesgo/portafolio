@@ -1,0 +1,24 @@
+body{
+  font-family: 'Nunito', sans-serif;
+}
+
+header {
+  background-image: url("imagen1.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+  padding-bottom: 7rem;
+}
+
+
+h1{
+  font-weight: 700;
+}
+
+h2{
+  font-weight: 400;
+}
+
+h3{
+  font-weight: 300;
+}
